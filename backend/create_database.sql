@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS day10_attendance CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
